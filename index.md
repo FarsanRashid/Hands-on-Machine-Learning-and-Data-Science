@@ -8,9 +8,5 @@ This page is a collection of my hands on experience as a machine learning enthus
   * How sleep duration is related with general health?
   * How cholesterol is related with heart disease?
   * How mental health is related with gender?
- 
-* [Introduction to Probability and Data](https://www.coursera.org/account/accomplishments/certificate/8Z73SZG9WFAL)
-* [Linear Regression and Modeling](https://www.coursera.org/account/accomplishments/certificate/CJCDJMWAZTDY)
-* [Inferential Statistics](https://www.coursera.org/account/accomplishments/certificate/JSY2C6NFNT7K)
-* [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/certificate/L4273RR9EC)
-* [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/account/accomplishments/certificate/RTJ4HWZ2T3QG)
+ * [Data analysis to answer] (./DataAnalysis/StasticalInference/statistical_inference.html)
+  * Is gun ownership rate of republican supporters signifacantly diferent than democrat supporters?
