@@ -1,5 +1,5 @@
-This page is a collection of my hands on experience as a machine learning enthusiast. These projects are reproducible forms of either online course assignments or machine learning book examples that I encountered during my exploration.
-## Course Certificates
+This page is a collection of my hands on experience as a machine learning enthusiast. These projects are reproducible forms of either online course assignments or machine learning book examples that I encountered during my learning.
+## Projects
 
 * [Linear regression with single variable to predict profit](./LinearRegression/PredictProfit/predict_profit.html)
 * [Algorithms: Design and Analysis,Part 1](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=975599)
