@@ -1,8 +1,7 @@
-I have always been a big advocate of Massive open online courses(MOOC). Over the years I have completed MOOCs related mostly but not limited to Computer Science. This page is a collection of my MOOC certificates and selected MOOC assignments. My sincere gratitude to all the MOOC platforms specially to Coursera who have made education available and enjoyable.
-
+This page is a collection of my hands on experience as a machine learning enthusiast. These projects are reproducible forms of either online course assignments or machine learning book example.
 ## Course Certificates
 
-* [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/FVYKC58MA2FU)
+* [Linear regression with single variable to predict profit](./Linear regression/LinearRegression.html)
 * [Algorithms: Design and Analysis,Part 1](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=975599)
 * [Object-Oriented Design](https://www.coursera.org/account/accomplishments/certificate/LTLMQUZEJ5NY)
 * [Introduction to Probability and Data](https://www.coursera.org/account/accomplishments/certificate/8Z73SZG9WFAL)
