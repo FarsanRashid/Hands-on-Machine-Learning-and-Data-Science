@@ -9,4 +9,4 @@ This page is a collection of my hands on experience as a machine learning enthus
   * How cholesterol is related with heart disease?
   * How mental health is related with gender?
 * [Data analysis to answer](./DataAnalysis/StasticalInference/statistical_inference.html)
-  * Is gun ownership rate of republican supporters signifacantly diferent than democrat supporters?
+  * Is gun ownership rate of republican supporters signifacantly different than democrat supporters?
