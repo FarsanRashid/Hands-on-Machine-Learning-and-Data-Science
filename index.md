@@ -4,7 +4,11 @@ This page is a collection of my hands on experience as a machine learning enthus
 * [Linear regression with single variable to predict profit](./LinearRegression/PredictProfit/predict_profit.html)
 * [Linear regression to answer](./LinearRegression/PredictRating/predict_rating.html)
    * If a movie win award in oscar or is created by oscar award winning director/actor/actress, is it tend to have higher ratings     in movie review websites?
-* [Object-Oriented Design](https://www.coursera.org/account/accomplishments/certificate/LTLMQUZEJ5NY)
+* [Data analysis to answer](./)
+  * How sleep duration is related with general health?
+  * How cholesterol is related with heart disease?
+  * How mental health is related with gender?
+ 
 * [Introduction to Probability and Data](https://www.coursera.org/account/accomplishments/certificate/8Z73SZG9WFAL)
 * [Linear Regression and Modeling](https://www.coursera.org/account/accomplishments/certificate/CJCDJMWAZTDY)
 * [Inferential Statistics](https://www.coursera.org/account/accomplishments/certificate/JSY2C6NFNT7K)
