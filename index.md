@@ -3,7 +3,7 @@ This page is a collection of my hands on experience as a machine learning enthus
 
 * [Linear regression with single variable to predict profit](./LinearRegression/PredictProfit/predict_profit.html)
 * [Linear regression to answer](./LinearRegression/PredictRating/predict_rating.html)
-   *If If a movie win award in oscar or is created by oscar award winning director/actor/actress, is it tend to have higher ratings     in movie review websites?
+   * If a movie win award in oscar or is created by oscar award winning director/actor/actress, is it tend to have higher ratings     in movie review websites?
 * [Object-Oriented Design](https://www.coursera.org/account/accomplishments/certificate/LTLMQUZEJ5NY)
 * [Introduction to Probability and Data](https://www.coursera.org/account/accomplishments/certificate/8Z73SZG9WFAL)
 * [Linear Regression and Modeling](https://www.coursera.org/account/accomplishments/certificate/CJCDJMWAZTDY)
