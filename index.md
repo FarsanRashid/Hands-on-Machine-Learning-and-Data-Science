@@ -11,3 +11,4 @@ This page is a collection of my hands on experience as a machine learning enthus
 * [Data analysis to answer](./DataAnalysis/StasticalInference/statistical_inference.html)
   * Is gun ownership rate of republican supporters signifacantly different than democrat supporters?
 * [Logistic regression to predict admission verdict](./LogisticRegression/PredictAdmission/predict_admission.html)
+* [Regularized logistic regression to predict QA result](./LogisticRegression/PredictQAResult/predict_QA_result.html)
