@@ -10,4 +10,4 @@ This page is a collection of my hands on experience as a machine learning enthus
   * How mental health is related with gender?
 * [Data analysis to answer](./DataAnalysis/StasticalInference/statistical_inference.html)
   * Is gun ownership rate of republican supporters signifacantly different than democrat supporters?
-* [Logistic Regression](./)
+* [Logistic Regression to predict admission verdict](./LogisticRegression/PredictAdmission/predict_admission.html)
