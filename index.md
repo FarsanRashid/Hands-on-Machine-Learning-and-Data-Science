@@ -13,3 +13,4 @@ This page is a collection of my hands on experience as a machine learning enthus
 * [Logistic regression to predict admission verdict](./LogisticRegression/PredictAdmission/predict_admission.html)
 * [Regularized logistic regression to predict QA result](./LogisticRegression/PredictQAResult/predict_QA_result.html)
 * [Regularized linear regression to predict flow and bias, variance tradeoff](./LinearRegression/PredictFlow/predict_flow.html)
+* [K-means clustering for grouping][./K-Means/cluster_data.html]
