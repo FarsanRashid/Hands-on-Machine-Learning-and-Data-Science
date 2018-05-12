@@ -14,3 +14,4 @@ This page is a collection of my hands on experience as a machine learning enthus
 * [Regularized logistic regression to predict QA result](./LogisticRegression/PredictQAResult/predict_QA_result.html)
 * [Regularized linear regression to predict flow and bias, variance tradeoff](./LinearRegression/PredictFlow/predict_flow.html)
 * [K-means clustering for reducing image size](./K-Means/reduce_image.html)
+* [Principal component analysis (PCA) for dimensionality reduction](./PCA/reduce_dimension.html)
