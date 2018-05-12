@@ -16,3 +16,6 @@ This page is a collection of my hands on experience as a machine learning enthus
 * [K-means clustering for reducing image size](./K-Means/reduce_image.html)
 * [Principal component analysis (PCA) for dimensionality reduction](./PCA/reduce_dimension.html)
 * [Support vector machine (SVM) as spam classifier](./SVM/classify_spam.html)
+ <p align="center">
+  <img src="https://github.com/FarsanRashid/MOOCStudio/blob/master/tintin.gif" alt="Goodbye image"/>
+</p>
