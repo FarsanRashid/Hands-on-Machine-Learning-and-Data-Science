@@ -4,12 +4,12 @@ This page is a collection of my hands on experience as a machine learning enthus
 * [Linear regression to predict profit](./LinearRegression/PredictProfit/predict_profit.html)
 * [Linear regression to answer](./LinearRegression/PredictRating/predict_rating.html)
    * If a movie win award in oscar or is created by oscar award winning director/actor/actress, is it tend to have higher ratings     in movie review websites?
+* [Data analysis to answer](./DataAnalysis/StasticalInference/statistical_inference.html)
+  * Is gun ownership rate of republican supporters signifacantly different than democrat supporters?
 * [Data analysis to answer](./DataAnalysis/CorrelationAnalysis/health_data_analysis.html)
   * How sleep duration is related with general health?
   * How cholesterol is related with heart disease?
   * How mental health is related with gender?
-* [Data analysis to answer](./DataAnalysis/StasticalInference/statistical_inference.html)
-  * Is gun ownership rate of republican supporters signifacantly different than democrat supporters?
 * [Logistic regression to predict admission verdict](./LogisticRegression/PredictAdmission/predict_admission.html)
 * [Regularized logistic regression to predict QA result](./LogisticRegression/PredictQAResult/predict_QA_result.html)
 * [Regularized linear regression to predict flow and bias, variance tradeoff](./LinearRegression/PredictFlow/predict_flow.html)
