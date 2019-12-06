@@ -1,4 +1,4 @@
-This page is a collection of my hands on experience as a machine learning enthusiast. These projects are reproducible forms of either online course assignments or machine learning book examples that I encountered during my learning.
+As a machine learning enthusiast completed following projects as part of learning.
 ## Projects
 
 * [Linear regression to predict profit](./LinearRegression/PredictProfit/predict_profit.html)
